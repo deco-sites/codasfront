@@ -1,0 +1,23 @@
+{
+  "banners": [
+    {
+      "image": {
+        "mobile": "https://decoims.com/storefront/4430197a-bee1-4993-8947-0dbc752f254e/1742560270734-91102b71-4832-486a-b683-5f7b06f649af",
+        "desktop": "https://decoims.com/storefront/853da6d3-d671-42f8-8ead-a0e61eb11f6b/1742560272355-ec597b6a-dcf1-48ca-a99d-95b3c6304f96"
+      },
+      "title": "Woman",
+      "matcher": "/feminino/*",
+      "subtitle": "As"
+    },
+    {
+      "image": {
+        "mobile": "https://decoims.com/storefront/4430197a-bee1-4993-8947-0dbc752f254e/1742560270734-91102b71-4832-486a-b683-5f7b06f649af",
+        "desktop": "https://decoims.com/storefront/853da6d3-d671-42f8-8ead-a0e61eb11f6b/1742560272355-ec597b6a-dcf1-48ca-a99d-95b3c6304f96"
+      },
+      "title": "Woman",
+      "matcher": "/*",
+      "subtitle": "As"
+    }
+  ],
+  "__resolveType": "site/sections/Category/CategoryBanner.tsx"
+}
