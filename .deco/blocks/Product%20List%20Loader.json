@@ -1,8 +1,8 @@
 {
   "__resolveType": "shopify/loaders/ProductList.ts",
   "props": {
-    "count": 6,
-    "query": "cafeina"
+    "count": 10,
+    "query": "creatin"
   },
   "filters": {}
 }

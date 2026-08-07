@@ -58,8 +58,8 @@
         "products": {
           "__resolveType": "shopify/loaders/ProductList.ts",
           "props": {
-            "count": 10,
-            "query": "Melatonina"
+            "collection": "frontpage",
+            "count": 10
           },
           "filters": {}
         }
