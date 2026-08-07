@@ -56,7 +56,12 @@
         "title": "Featured Products",
         "cta": "/mono",
         "products": {
-          "__resolveType": "Product List Loader"
+          "__resolveType": "shopify/loaders/ProductList.ts",
+          "props": {
+            "count": 10,
+            "query": "Melatonina"
+          },
+          "filters": {}
         }
       }
     },
@@ -121,8 +126,8 @@
             "products": {
               "__resolveType": "shopify/loaders/ProductList.ts",
               "props": {
-                "query": "hat and bag",
-                "count": 10
+                "count": 10,
+                "query": "a"
               },
               "filters": {
                 "tags": [],

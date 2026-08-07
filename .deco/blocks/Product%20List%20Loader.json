@@ -1,14 +1,8 @@
 {
   "__resolveType": "shopify/loaders/ProductList.ts",
   "props": {
-    "sort": "",
-    "query": "a",
-    "count": 6
+    "count": 6,
+    "query": "cafeina"
   },
-  "filters": {
-    "tags": [],
-    "productTypes": [],
-    "productVendors": [],
-    "variantOptions": []
-  }
+  "filters": {}
 }

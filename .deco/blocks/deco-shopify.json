@@ -2,10 +2,10 @@
   "__resolveType": "site/apps/deco/shopify.ts",
   "adminAccessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "6378c07c4148a36786a94dc9bf5f351f836991f9d17989e0cf3a0af449d4bc39a93c5b76674866aed1b1d4663bc01ee5",
+    "encrypted": "50ddf62ad16efc80b7f148d1e21755600ab3bd70ae23ea2eff7195910281bcff0dffd1576389bcfc13ac732c2791b3da",
     "name": "SHOPIFY_ACCESS_TOKEN"
   },
   "platform": "shopify",
-  "storeName": "gimenesdevstore",
-  "storefrontAccessToken": "71f2c3da0dab3b4eee7dce35eb8c6113"
+  "storeName": "codas-store-iua9pzzr",
+  "storefrontAccessToken": "c64aa3b2c730ed3e52f245d4e123eb69"
 }
