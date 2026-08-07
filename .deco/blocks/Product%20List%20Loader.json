@@ -2,7 +2,7 @@
   "__resolveType": "shopify/loaders/ProductList.ts",
   "props": {
     "count": 10,
-    "query": "creatin"
+    "collection": "frontpage"
   },
   "filters": {}
 }

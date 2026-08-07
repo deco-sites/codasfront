@@ -7,5 +7,6 @@
   },
   "platform": "shopify",
   "storeName": "codas-store-iua9pzzr",
-  "storefrontAccessToken": "c64aa3b2c730ed3e52f245d4e123eb69"
+  "storefrontAccessToken": "c64aa3b2c730ed3e52f245d4e123eb69",
+  "publicUrl": "codas-store-iua9pzzr.myshopify.com"
 }
